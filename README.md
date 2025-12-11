@@ -28,7 +28,7 @@ The model achieves **94.2% test accuracy** while training only ~1M parameters, m
 |------------|-------------|
 | `best_full_model.pth` | Final trained full model (94.2% accuracy) |
 | `lora_adapters/` | LoRA adapter weights (~8–10 MB) |
-| `KashiBhai_Training_Notebook.ipynb` | Full training notebook with detailed code |
+| `Image_FineTunning.ipynb` | Full training notebook with detailed code |
 | `requirements.txt` | All required packages (torch, timm, peft, etc.) |
 
 ---
